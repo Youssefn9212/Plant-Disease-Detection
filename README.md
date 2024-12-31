@@ -4,9 +4,29 @@ This project focuses on leveraging machine learning to detect and classify apple
 
 ---
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/156fe9bc-c862-44fc-997d-b559c1992c88" alt="Project Title">
+</p>
+
+---
+
 ### Project Contributors
 - **Youssef Nakhla**
 - **Charbel El Fakhry**
+
+---
+
+### Table of Contents
+1. [Project Overview](#project-overview)
+2. [Project Contributors](#project-contributors)
+3. [Project Phases](#project-phases)
+   - [Phase 1: Problem Identification](#phase-1-problem-identification)
+   - [Phase 2: Dataset Preparation](#phase-2-dataset-preparation)
+   - [Phase 3: Baseline Model](#phase-3-baseline-model)
+   - [Phase 4: Model Improvement](#phase-4-model-improvement)
+   - [Phase 5: Results and Analysis](#phase-5-results-and-analysis)
+   - [Phase 6: Conclusion and Future Work](#phase-6-conclusion-and-future-work)
+4. [Repository Contents](#repository-contents)
 
 ---
 
@@ -55,17 +75,5 @@ Plant diseases pose a significant threat to agricultural productivity, often lea
 - **Future Work:**
   - Expand the dataset to include other crops and diseases.
   - Explore more advanced CNN architectures and broader parameter ranges.
-
 ---
 
-### Repository Contents
-
-- **`notebooks/`**: Contains Jupyter notebooks for data preprocessing, training, and evaluation.
-- **`models/`**: Saved models and architecture files.
-- **`data/`**: Dataset used for training and testing.
-- **`reports/`**: Detailed project reports and presentations.
-- **`requirements.txt`**: Dependencies for setting up the project environment.
-
----
-
-This project demonstrates the potential of machine learning in revolutionizing agricultural practices, paving the way for smarter and more sustainable farming solutions.
